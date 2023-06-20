@@ -2,6 +2,8 @@
 
 ##### Projeto pessoal "De Para"
 
+- 🌱 Estudando Javascript
+
 ##
 
 <!-- 
