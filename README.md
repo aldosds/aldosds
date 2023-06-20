@@ -6,11 +6,7 @@
 
 ##
 
-<!-- 
 ### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldosds&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
 <div>
    <a href="https://github.com/aldosds">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldosds&layout=compact&langs_count=6&theme=tokyonight"/>
