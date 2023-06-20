@@ -1,6 +1,6 @@
 ### Olá pessoas 👋
 
-##### Projeto pessola "De Para"
+##### Projeto pessoal "De Para"
 
 ### Detalhes
 
