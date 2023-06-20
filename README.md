@@ -2,7 +2,7 @@
 
 ##### Projeto pessoal "De Para"
 
-- 🌱 Estou aprendendo Javascript
+- 🌱 Estudando Javascript
 
 ##
 
