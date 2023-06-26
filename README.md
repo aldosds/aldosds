@@ -1,4 +1,4 @@
-### Olá pessoas 👋
+### Olá pessoas, Eu sou Aldo Santos 👋
 
 ##### Projeto pessoal "De Para"
 
