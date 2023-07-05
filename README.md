@@ -4,7 +4,7 @@
 
 - 👨‍💻 Quero me tornar um programador proficional
 - 🌱 Estudando Javascript no momento
-- 🤝 Se você precisa de ajuda em projetos com as tecnologias e ferramentas abaixo, estou dispoto a trabalhar para aprender mais com elas.
+- 🤝 Se você precisa de ajuda em projetos com as tecnologias e ferramentas abaixo, estou disposto a trabalhar para aprender mais com elas.
 - 📫 Como entrar em contato comigo: [LinkedIn](https://www.linkedin.com/in/aldo-santos-3b706a10b/)
 
 ##
