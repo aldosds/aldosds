@@ -3,7 +3,7 @@
 ##### Projeto pessoal "De Para"
 
 - 👨‍💻 Focado em  programar sem procrastinar
-- 🌱 Estudando Angular no momento
+- 🌱 Estudando React no momento
 - 🤝 Se você precisa de ajuda em projetos com as tecnologias e ferramentas abaixo, estou disposto a trabalhar para aprender mais com elas.
 - 📫 Como entrar em contato comigo: [LinkedIn](https://www.linkedin.com/in/aldo-s-santos/)
 
