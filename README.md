@@ -1,6 +1,6 @@
 ### Olá! Eu sou Aldo Santos 👋
 
-##### Projeto pessoal "De Para"
+##### Projeto pessoal "De / Para"
 
 - 👨‍💻 Focado em  programar sem procrastinar
 - 🌱 Estudando React no momento
