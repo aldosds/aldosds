@@ -13,7 +13,8 @@
 
 <div>
    <a href="https://github.com/aldosds">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldosds&layout=compact&langs_count=6&theme=tokyonight"/>
+   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldosds&layout=compact&langs_count=6&theme=tokyonight"/> -->
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aldosds&layout=compact&langs_count=6&theme=tokyonight" />
 </div>
 
 ##
